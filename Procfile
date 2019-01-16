@@ -1,1 +1,1 @@
-web:py Start.py
+web: python Start.py
