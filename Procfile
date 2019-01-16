@@ -1,1 +1,1 @@
-web: gunicorn Start.py
+web: gunicorn app:Start --log-file=-
